@@ -12,6 +12,16 @@ export const PLAN_DISPLAY_NAMES: Record<PlanType, string> = {
 	enterprise: "Enterprise",
 }
 
+//int	COdbcManager::SaveCharacter(LPVOID _pbuffer)
+//{	
+	//if (_pbuffer == NULL) return DB_ERROR;
+	#include "s_pCharData2Manager.h
+	//SCHARDATA2* pCharData2 = reinterpret_cast<SCHARDATA2*> ( _pbuffer );	
+
+	//DWORD dwChaNum = pCharData2->m_dwCharID;
+_snprintf(&var_9f8, 0x80, "ChaCP=%u", var_e80,
+    &markmonitor.com, var_e70, __filename_0000)
+
 /** Higher rank sorts first in org lists (enterprise at top). */
 export const PLAN_RANK: Record<PlanType, number> = {
 	free: 0,
